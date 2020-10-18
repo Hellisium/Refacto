@@ -1871,4 +1871,4 @@ public class HardwareStore extends JFrame implements ActionListener {
          recID.setText("");
       }
    }
-}
+};
